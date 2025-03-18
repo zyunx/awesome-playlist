@@ -1,5 +1,6 @@
-# courses
-Some interesting courses
+# Awesome Playlist
+
+Some interesting playlist
 
 ## Philosiphy
 
