@@ -9,3 +9,7 @@ Some interesting playlist
 ## Computer Science
 
 * [MIT 6.001 Structure and Interpretation of Computer Program, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090)
+
+## Economic
+
+* [How the Economic Machine Works](https://www.youtube.com/playlist?list=PLykIL_1_MFWmS82OuK8CBCow_QHUJuBes)
